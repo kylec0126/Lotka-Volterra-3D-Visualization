@@ -16,9 +16,9 @@ I developed a pipeline to solve the ODEs in Python and visualize the resulting p
 *Above: A high-resolution render using OSPRay Path Tracing and a Viridis color-map to represent the passage of time.*
 
 ## 📂 Repository Contents
-*   `simulation_math.ipynb`: The initial Jupyter Notebook used to solve the ODEs and validate the math.
-*   `paraview_setup.py`: A Python script that automatically builds the 3D tubes, lighting, and environment within ParaView.
-*   `Simulation_Orbit.mp4`: A cinematic camera orbit of the final 3D model.
+*   `Simulation_logic.ipynb`: The initial Jupyter Notebook used to solve the ODEs and validate the math.
+*   `ParaView_Automation.py`: A Python script that automatically builds the 3D tubes, lighting, and environment within ParaView.
+*   `Simulation_Orbit.mov`: A cinematic camera orbit of the final 3D model.
 
 ## 💡 Key Concepts Demonstrated
 *   **Phase-Space Analysis:** Mapping non-spatial data into a 3D geometric context.
